@@ -21,20 +21,19 @@ Una pequeña aplicación en Python con interfaz gráfica hecha con `tkinter` que
 ## 🚀 Cómo ejecutar
 
 1. Clona este repositorio:
-   ```bash
+```bash
    
    git clone https://github.com/tu_usuario/passW.git
    cd passW
-
+```
 
 
 2. Crea un entorno virtual:
 ```bash
 
-python -m venv venv
-source venv/bin/activate  # En Linux/macOS
-venv\Scripts\activate     # En Windows
-
+    python -m venv venv
+    source venv/bin/activate  # En Linux/macOS
+    venv\Scripts\activate     # En Windows
 ```
 
 3. Ejecuta la App
@@ -42,7 +41,6 @@ venv\Scripts\activate     # En Windows
  ```bash
    
    python main.py
-
 ```
 
 ## 📁 Estructura del proyecto

@@ -45,6 +45,8 @@ Una pequeña aplicación en Python con interfaz gráfica hecha con `tkinter` que
 
 ## 📁 Estructura del proyecto
 
+
+
  passW/
 │
 ├── main.py
@@ -52,6 +54,7 @@ Una pequeña aplicación en Python con interfaz gráfica hecha con `tkinter` que
 ├── README.md
 ├── .gitignore
 └── captura.jpg
+
 
 
 

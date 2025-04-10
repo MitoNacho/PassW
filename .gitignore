@@ -1,0 +1,15 @@
+# Ignorar entornos virtuales
+venv/
+.env/
+
+# Ignorar archivos del sistema
+__pycache__/
+*.py[cod]
+*.log
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+
+# Ignorar archivo de contraseñas
+contrasenas.txt

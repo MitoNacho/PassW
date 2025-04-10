@@ -47,13 +47,13 @@ Una pequeña aplicación en Python con interfaz gráfica hecha con `tkinter` que
 
 
 
- passW/
+passW/
 │
 ├── main.py
 ├── contrasenas.txt
 ├── README.md
 ├── .gitignore
-└── captura.jpg
+└── screenshot.png
 
 
 

@@ -43,19 +43,6 @@ Una pequeña aplicación en Python con interfaz gráfica hecha con `tkinter` que
    python main.py
 ```
 
-## 📁 Estructura del proyecto
-
-
-
-passW/
-│
-├── main.py
-├── contrasenas.txt
-├── README.md
-├── .gitignore
-└── screenshot.png
-
-
 
 
 

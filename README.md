@@ -54,7 +54,7 @@ Si quieres mejorar este proyecto haz un fork del repositorio, crea una nueva ram
 
 Nacho Naves
 
-GitHub: @MitoNacho
+GitHub: [@MitoNacho](https://github.com/MitoNacho)
 
 Web personal: https://mitonacho.github.io/dev/
 

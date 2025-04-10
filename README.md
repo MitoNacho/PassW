@@ -26,7 +26,7 @@ Una pequeña aplicación en Python con interfaz gráfica hecha con `tkinter` que
    git clone https://github.com/tu_usuario/passW.git
    cd passW
 
-´´´
+
 
 2. Crea un entorno virtual:
 ```bash

@@ -4,6 +4,10 @@ import random
 import string
 import json
 
+# Definición personalizada de símbolos seguros para contraseñas
+SYMBOLS = "@#$%&*+-=_!?"
+
+
 def generar_contrasena(longitud, complejidad):
     caracteres = ''
     if complejidad == 'baja':
@@ -11,10 +15,10 @@ def generar_contrasena(longitud, complejidad):
     elif complejidad == 'media':
         caracteres = string.ascii_letters + string.digits                         # --- Letras minúsculas, mayúsculas y números ---
     elif complejidad == 'alta':
-        caracteres = string.ascii_letters + string.digits + string.punctuation    # --- Añade signos de puntuación ---
+        caracteres = string.ascii_letters + string.digits + SYMBOLS               # --- Añade símbolos definidos anteriormente en línea 8 ---
 
     return ''.join(random.choice(caracteres) for _ in range(longitud))
-
+    
 def guardar_contrasenas(contrasenas):
     try:
         with open('contrasenas.txt', 'r') as archivo:

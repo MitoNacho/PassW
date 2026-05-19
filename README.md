@@ -2,7 +2,7 @@
 
 Una pequeña aplicación en Python con interfaz gráfica hecha con `tkinter` que genera contraseñas seguras según el nivel de complejidad deseado. Además, te permite guardar las contraseñas generadas para tus sitios web o servicios.
 
-![Captura de pantalla](./assets/captura.jpg)
+![Captura de pantalla](./assets/appP.png)
 
 ## ✨ Características
 
